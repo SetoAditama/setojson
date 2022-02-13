@@ -11,10 +11,34 @@
         {
             "id": 2,
             "name": "Jason Abdi",
-            "city": "Tangerang, Indonesia",
+            "city": "Manila, Filipina",
             "phone": 9908675,
             "member": "Member since February 2021",
             "email": "jason.abdi@gmail.com"   
+        },
+        {
+            "id": 3,
+            "name": "Muhammad Rizal",
+            "city": "Dubai, UAE",
+            "phone": 8769001,
+            "member": "Member since January 2018",
+            "email": "m.rizal@gmail.com"
+        },
+        {
+            "id": 4,
+            "name": "Angelina Jessica",
+            "city": "Sydney, Australia",
+            "phone": 7858071,
+            "member": "Member since December 2019",
+            "email": "jessica.angel01@gmail.com"
+        },
+        {
+            "id": 5,
+            "name": "Bryan Krugerd",
+            "city": "New York, USA",
+            "phone": 8910065,
+            "member": "Member since August 2019",
+            "email": "bryank@gmail.com"
         }
     ]
 }
